@@ -30,3 +30,4 @@ jobs:
         with:
           name: smartwatch-app
           path: bin/*.apk
+# restart build
